@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+80#!/usr/bin/env node
 var chalk = require('chalk'),
   exit = require('shelljs').exit,
   prettyms = require('pretty-ms'),
